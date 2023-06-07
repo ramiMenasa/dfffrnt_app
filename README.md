@@ -4,4 +4,5 @@ Create a React Native app for showcasing products using data fetched from the pr
 
 # How to Run the App
 Install the required dependencies by running npm install in the project root directory.
+
 Start the development server with npx expo start.
